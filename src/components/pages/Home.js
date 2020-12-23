@@ -1,0 +1,20 @@
+//Import Modules
+import React from 'react'
+
+//Import Files
+import '../../App.css'
+import HeroSection from '../HeroSection'
+import Cards from '../Cards.js'
+import Footer from '../Footer.js'
+
+function Home (){
+    return(
+        <>
+            <HeroSection/>
+            <Cards/>
+            <Footer/>
+        </>
+    )
+}
+
+export default Home
