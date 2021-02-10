@@ -1,11 +1,3 @@
-# Source of this video:
-
-Youtube Video:
-https://www.youtube.com/watch?v=I2UBjN5ER4s
-
-Blog of the Guy who did this in this in the first place:
-https://www.codavilla.com/posts/react-website-travel-website-design
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
